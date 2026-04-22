@@ -38,7 +38,7 @@ git log
 git shortlog
 git blame
 ```
-The basic Git syntax is `program | action | destination`.
+The basic Gfdafadfait syntax is `program | action | destination`.
 
 For example:
 

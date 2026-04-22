@@ -29,24 +29,25 @@ Once you've added multiple remotes, here is how you interact with them:
 
 - **To see all your connected remotes:** Use the verbose flag to see exactly what nicknames go to what URLs:
 
-    ```bash
+ ```bash
 git remote -v
-    ```
-    
+ ```
+
 - **To push to your new remote:** Instead of pushing to `origin`, you just swap out the nickname in your command:
 
-    ```bash
+```bash
 git push something main
-    ```
+```
 
 - **To pull from your new remote:**
 
-    ```bash
+```
 git pull something main
-    ```
+```
+
 
 - **To rename a remote later:** If you realize "something" isn't a descriptive enough name:
 
-	```bash
+```bash
 git remote rename something staging-server
-    ```
+```

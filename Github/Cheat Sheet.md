@@ -34,7 +34,7 @@ git reset or git restore
 ## Commands related to checking status or log history
 ```bash
 git status
-git log
+git logyugygt768
 git shortlog
 git blame
 ```

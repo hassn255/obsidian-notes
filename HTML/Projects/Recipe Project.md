@@ -23,3 +23,8 @@ For the meat recipes:
 On to the CSS Part!
 
 It's been a great journey starting my leap forward. I really can't thank the Odin Project devs enough.
+
+## What I learned
+1. git root and [[Cheat Sheet#Commands related to changing root|How to change it]]
+2. git revert and [[Cheat Sheet#Normal Workflow|git restore]]
+3. How to make macros with vim
